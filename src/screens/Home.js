@@ -75,7 +75,7 @@ class Home extends Component {
                 borderRadius: 10
               }}
             >
-              <Text>{item}</Text>
+              {/* <Text>{item}</Text> */}
             </View>
           )}
           ItemSeparatorComponent={() => <View style={{ padding: 5 }} />}
